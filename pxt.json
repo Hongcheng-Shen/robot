@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "Robot.ts"
+        "Robot.ts",
+        "_locales/zh-CN/Robot-strings.json"
     ],
     "testFiles": [
         "test.ts"
